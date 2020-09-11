@@ -11,6 +11,6 @@ MC Resource pack that shows the old texture of metals.
 
 ## Credits:
 
-Parts of this pack were taken from https://vanillatweaks.net
-Parts of this pack were given to me from `NintendoFan97`
-This pack was created by `AwesomeEvan#8626` (Discord).
+- Parts of this pack were taken from https://vanillatweaks.net
+- Parts of this pack were given to me from `NintendoFan97`
+- This pack was created by `AwesomeEvan#8626` (Discord).
