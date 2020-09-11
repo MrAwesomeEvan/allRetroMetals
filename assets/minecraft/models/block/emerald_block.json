@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "particle": "block/emerald_block_side",
+        "down": "block/emerald_block_bottom",
+        "up": "block/emerald_block",
+        "north": "block/emerald_block_side",
+        "east": "block/emerald_block_side",
+        "south": "block/emerald_block_side",
+        "west": "block/emerald_block_side"
+    }
+}
